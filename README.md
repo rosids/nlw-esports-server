@@ -1,6 +1,6 @@
 # Servidor do NLW eSports
 
-Foi desenvolvida com Express v.4.18, Prisma v.4.3 e sqlite3
+Foi desenvolvido com Express v.4.18, Prisma v.4.3 e sqlite3
 
 ## Setup
 
